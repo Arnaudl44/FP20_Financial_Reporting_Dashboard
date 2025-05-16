@@ -55,9 +55,11 @@ Ce projet a été réalisé dans le cadre du **FP20 Analytics Challenge 26** org
 
 ---
 
-## 🌐 Lien vers le rapport interactif (Web)
+## 🌐 Lien vers le rapport interactif
 
 🔗 [Voir le rapport Power BI en ligne](https://tinyurl.com/fp20-financial-report)
+
+📬 [Lien vers le post LinkedIn de présentation](https://www.linkedin.com/posts/activity-7329130653524914178-p4q7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABoLWnIBsBbvbPS-4MsfT59dvv586ORG2Qk)
 
 ---
 
@@ -86,4 +88,4 @@ Merci à **@Federico Pastor**, **@ZoomCharts** et la communauté **FP20 Analytic
 
 **Arnaud Le Merrer**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnaud%20Le%20Merrer-blue?logo=linkedin)](https://www.linkedin.com/in/arnaud-le-merrer-66a401102/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Arnauldl44-black?logo=github)](https://github.com/Arnauldl44)
+
